@@ -1,0 +1,11 @@
+onlyBuiltDependencies:
+  - bigint-buffer
+  - blake-hash
+  - bufferutil
+  - keccak
+  - protobufjs
+  - secp256k1
+  - sharp
+  - tiny-secp256k1
+  - usb
+  - utf-8-validate
