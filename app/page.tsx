@@ -119,7 +119,7 @@ export default function WasteCollectionPage() {
 
     setIsSubmitting(true);
 
-    const umi = createUmi("http://api.devnet.solana.com")
+    const umi = createUmi("https://api.devnet.solana.com")
       .use(walletAdapterIdentity(wallet))
       .use(mplBubblegum());
 
@@ -128,7 +128,7 @@ export default function WasteCollectionPage() {
       umi.eddsa.createKeypairFromSecretKey(BACKEND_KEYPAIR),
     );
 
-    const umiUploader = createUmi("http://api.devnet.solana.com")
+    const umiUploader = createUmi("https://api.devnet.solana.com")
       .use(irysUploader())
       .use(keypairIdentity(keypair));
     // upload metadata
