@@ -1,5 +1,9 @@
 {
   "dependencies": {
+    "@radix-ui/react-label": "latest",
+    "@radix-ui/react-radio-group": "latest",
+    "@radix-ui/react-select": "latest",
+    "@radix-ui/react-slot": "latest",
     "@solana/wallet-adapter-base": "latest",
     "@solana/wallet-adapter-react": "latest",
     "@solana/wallet-adapter-react-ui": "latest",
@@ -9,6 +13,7 @@
     "clsx": "^2.1.1",
     "lucide-react": "^0.454.0",
     "next": "16.0.1",
+    "next-themes": "latest",
     "react": "19.2.0",
     "react-dom": "19.2.0",
     "tailwind-merge": "^2.5.5",
