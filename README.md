@@ -12,6 +12,6 @@ A waste transfer note (WTN) is a legal document required for businesses to show 
 
 ## Powered by Naion
 Strategic Consulting for a Sustainable Future.</br></br>
-Dan Naokes - CEO</br>
+Dan Noakes - CEO</br>
 Kai Pitt-Richardson - Technical Lead, Marketing and Communications</br>
 Kartik Soneji - Lead Developer</br>
