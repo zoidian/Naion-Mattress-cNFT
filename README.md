@@ -11,7 +11,7 @@ The foundational platform that Solana application will be built on to support Cl
 A waste transfer note (WTN) is a legal document required for businesses to show they are correctly transferring non-hazardous waste to a licensed waste carrier. It serves as a legal agreement and creates an audit trail for the waste from production to disposal, which both the waste producer and the carrier must sign. Both parties must keep a copy for at least two years. 
 
 ## Powered by Naion
-Strategic Consulting for a Sustainable Future.
-Dan Naokes - CEO.
-Kai Pitt-Richardson - Technical Lead, Marketing and Communications.
-Kartik Soneji - Lead Developer.
+Strategic Consulting for a Sustainable Future.</br></br>
+Dan Naokes - CEO</br>
+Kai Pitt-Richardson - Technical Lead, Marketing and Communications</br>
+Kartik Soneji - Lead Developer</br>
